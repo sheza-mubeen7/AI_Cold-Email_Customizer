@@ -1,6 +1,6 @@
 # 💼 AI Cold-Email Customizer (Autonomous Outreach Agent)
 
-A high-performance, enterprise-grade **TypeScript Micro-Workflow Agent** built utilizing the **Vercel AI SDK Core** and orchestration via **Groq Cloud (Llama 3.3 Matrix)**. This tool automates corporate sales pitches and HR outreach by generating deeply personalized, high-conversion email blueprints with a type-safe telemetry setup.
+A high-performance, enterprise-grade **TypeScript Micro-Workflow Agent** built utilizing the **Vercel AI SDK Core** and orchestration via **Groq Cloud (Llama 3.3 Matrix)**. This tool automates corporate sales pitches and HR outreach by generating deeply personalized, high-conversion email blueprint setup.
 
 ---
 
